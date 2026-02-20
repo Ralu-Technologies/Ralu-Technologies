@@ -1,11 +1,15 @@
 # ⚡ Bienvenidos a RaLu Technologies ⚡
 
-¡Hola! Somos **RaLu Technologies**, apasionados por el desarrollo de firmware, la electrónica a bajo nivel y los sistemas embebidos. Si vienes de nuestro **TikTok**, estás en el lugar correcto. Aquí encontrarás todo el código, librerías y esquemáticos de los proyectos que armamos en video.
+¡Hola! Somos **RaLu Technologies**. 
+
+Si estás en el mundo de los microcontroladores, seguro te has dado cuenta de algo: **la mayor parte del contenido de calidad, avanzado y profesional sobre sistemas embebidos está en inglés.** Nuestra misión es romper esa barrera. Estamos aquí para traer ese mismo nivel técnico, sin atajos y directo al hardware, **100% en español**.
+
+Si vienes de nuestro **TikTok**, estás en el lugar correcto. Aquí encontrarás todo el código estructurado, librerías y esquemáticos de los proyectos que armamos en video.
 
 ### 🎯 Nuestro Enfoque
-- 💻 **Desarrollo de Firmware:** Programación bare-metal y manipulación de registros (Bitwise logic).
-- 🛠️ **Hardware Debugging:** Técnicas avanzadas para encontrar bugs antes de que quemen tu placa.
-- 🚀 **Sistemas Embebidos:** Desde microcontroladores STM32 hasta Embedded Linux.
+- 💻 **Desarrollo de Firmware:** Dominio total del hardware. Desde programación bare-metal y manipulación de registros, hasta implementaciones con RTOS y Embedded Linux.
+- 🛠️ **Hardware Debugging:** Técnicas avanzadas y profesionales para encontrar bugs antes de que quemen tu placa.
+- 🚀 **Sistemas Embebidos:** Desde microcontroladores STM32 hasta arquitecturas más complejas.
 
 ---
 
@@ -30,10 +34,11 @@
 
 ### 📺 Código de nuestros TikToks
 
-¿Buscas el código de algún video en específico? Revisa nuestros repositorios destacados. Estaremos subiendo el código fuente de:
-* 🟢 **Operaciones Bitwise en C:** Códigos de OR, XOR, AND y manipulaciones a nivel de registro.
-* 🐛 **Trucos de Debugging:** Ejemplos para *Live Expressions* y banderas de control.
-* 💳 **Proyectos de Hardware:** Código para interactuar con periféricos (como el Monedero Electrónico).
+¿Buscas el código de algún video en específico? Todo nuestro contenido está organizado en repositorios por categorías para que lo integres fácilmente a tus proyectos:
+
+* 🟢 **Fundamentos de C y Registros:** Operaciones lógicas, optimización de código, máscaras y manipulación de memoria a bajo nivel.
+* 🐛 **Técnicas de Debugging:** Ejemplos prácticos para dominar el IDE, uso de *Live Expressions*, breakpoints y rastreo de fallos.
+* 💳 **Drivers y Periféricos:** Código en C para interactuar con hardware externo, sensores, actuadores y protocolos de comunicación (UART, I2C, SPI).
 
 ---
 
