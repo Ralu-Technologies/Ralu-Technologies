@@ -27,8 +27,6 @@ Si vienes de nuestro **TikTok**, estás en el lugar correcto. Aquí encontrarás
 
 **Entornos & Debugging:**
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge)
-![Lauterbach](https://img.shields.io/badge/Lauterbach-Trace32-blue?style=for-the-badge)
-![PCAN-View](https://img.shields.io/badge/PCAN--View-CAN_Bus-red?style=for-the-badge)
 
 ---
 
